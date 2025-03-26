@@ -1,0 +1,25 @@
+.card{
+    width:500px; height: fit-content; background-color: aliceblue; border-radius: 25px; border: solid 2px rgb(13, 11, 175); margin: 20px
+}
+
+.imagem_perfil{
+    width: 100px; height: 100px; border-radius: 50%; margin: 10px 0px 10px 50px;
+}
+
+.mensagem{
+    padding: 50px;
+    font-family: arial;
+    font-size: 30px;
+}
+p{
+    font-size: 15px;
+}
+h1{
+    font-size: 30px;
+}
+.cor{
+    color: rgb(13, 11, 175);
+}
+.estilo{
+    font-style: italic;
+}
